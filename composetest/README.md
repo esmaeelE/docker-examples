@@ -1,6 +1,11 @@
 
 # This is simple docker compose
 
+Docker compose means to run multiple containers as a single service.
+
+For example, an application which required NGNIX and MySQL, we create one file which would start **both the containers as a service** without the need to start each one separately.
+
+
 ### Run
 
 `$ docker-compose up`
