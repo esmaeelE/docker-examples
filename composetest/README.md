@@ -10,7 +10,7 @@ For example, an application which required NGNIX and MySQL, we create one file w
 
 `$ docker-compose up`
 
-change app.py will affect program when docker-compose up in running state.
+change `app.py` will affect program when docker-compose up in running state.
 
 also we can detach docker compose with
 
